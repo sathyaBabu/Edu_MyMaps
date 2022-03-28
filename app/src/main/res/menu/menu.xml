@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Help..." android:id="@+id/help1"/>
+
+
+    <item android:id="@+id/mapTypeNone"
+        android:title="Map type is none." />
+
+
+    <item android:id="@+id/mapTypeNormal"
+        android:title="Map type is normal." />
+
+    <item android:id="@+id/mapTypeSatellite"
+        android:title="Map type is Satellite." />
+
+    <item android:id="@+id/mapTypeybrid"
+        android:title="Map type is Hybrid." />
+
+    <item android:id="@+id/mapTypeTerrain"
+        android:title="Map type is Terrain." />
+
+    <item android:id="@+id/listPlace"
+        android:title="List near by places( like All Shopping malls )." />
+
+
+    <item android:id="@+id/locationManagerStart"
+        android:title="Start Location Manager." />
+
+
+    <item android:id="@+id/locationManagerStop"
+        android:title="Stop The APP.. Location Manager." />
+
+    <item android:id="@+id/findPlace"
+        android:title="Find a place." />
+
+
+</menu>
